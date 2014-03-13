@@ -198,6 +198,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogecoin Testnet](https://github.com/Dirrot/dogecoin-testnet)
 
 ## Misc Services
+- [CoinsManager Portfolio](http://www.coinsmanager.com)
 - [CryptFolio](https://cryptfolio.com/)
 - [Dogecoin Donation Button](https://gist.github.com/kentbrew/8077969)
 - [Dogecoin Paper Wallet Generator](http://dogecoinpaperwallet.net)
